@@ -2,6 +2,7 @@
 required installations
 Gson JAR
 Apache Maven
+
 functions used:
 extractXYValues(): to find points
 findWrongPoints(): to find wrong terms
